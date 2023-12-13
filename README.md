@@ -1,0 +1,1 @@
+# learn-genai-embedding
